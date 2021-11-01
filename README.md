@@ -1,12 +1,10 @@
-## A Giter's question-and-answer self-introduction
-
-(This is inspired by [https://youtu.be/V4L3YuhCUEY](https://youtu.be/V4L3YuhCUEY). A copy of the YouTube video can be found at [https://b23.tv/av804459905](https://b23.tv/av804459905).)
+## A git's question-and-answer self-introduction
 
 ARE YOU READY?
 
 - **What is your name?** *> Septsea.*
 - **How can I call you?** *> Septsea OR Nanami.*
-- **What kind of Giter are you?** *> Well, I do not know...*
+- **What kind of git are you?** *> Well, I do not know...*
 - **When is your birthday?** *> On August the twelfth.*
 - **How old are you?** *> I would rather keep it a secret.*
 - **What is your gender?** *> I am a boy.*
@@ -40,6 +38,10 @@ ARE YOU READY?
 
 Well. More information.
 
+This kind of self-introduction was inspired by the YouTube video [https://youtu.be/V4L3YuhCUEY](https://youtu.be/V4L3YuhCUEY). A copy of that can be found at [https://b23.tv/av804459905](https://b23.tv/av804459905).
+
+In British English slang, a *git* is a foolish or worthless person. I redefined it to be a person who uses `Git`. Maybe a more common way is to say *a Git user*.
+
 I wrote a book on polynomials (my `strange-book-zero` repository), but that is not very good.
 
 ~~I used to have a Zhihu account.~~
@@ -50,7 +52,7 @@ I wrote a book on polynomials (my `strange-book-zero` repository), but that is n
 - AniDB: [https://anidb.net/user/902643](https://anidb.net/user/902643)
 - Chaoli Club: [https://chaoli.club/index.php/member/5729](https://chaoli.club/index.php/member/5729)
 
-Pleased to make your acquaintance.
+I am pleased to make your acquaintance.
 
 ---
 
