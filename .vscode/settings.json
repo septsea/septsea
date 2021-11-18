@@ -1,7 +1,7 @@
 {
-    "git.enableSmartCommit": true,
-    "git.postCommitCommand": "sync",
+    "editor.wordWrap": "on",
     "git.autofetch": "all",
     "git.confirmSync": false,
-    "editor.wordWrap": "on"
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "sync",
 }
