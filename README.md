@@ -42,7 +42,9 @@ This kind of self-introduction was inspired by the YouTube video [https://youtu.
 
 In British English slang, a *git* is a foolish or worthless person. I redefined it to be a person who uses `Git`. Maybe a more common way is to say *a `Git` user*.
 
-I wrote a book on polynomials (my `strange-book-zero` repository), but that is not very good.
+~~I wrote a book on polynomials (my `strange-book-zero` repository), but that is not very good.~~ *(The quality of source code of the book is so poor that the book cannot be complied properly without a considerable amount of time and effort.)*
+
+I wrote another math book (my `calculus-with-almost-no-variables` repository). It plays calculus with almost no variables.
 
 ~~I used to have a Zhihu account.~~
 
