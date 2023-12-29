@@ -48,12 +48,13 @@ In British English slang, a *git* is a foolish or worthless person. I redefined 
 
 ~~I used to have a Zhihu account.~~
 
-I wrote two math books, but none of them was not successful at all.
+I wrote ~~two~~ three math books, but none of them was not successful at all.
 
 - Bilibili: [https://space.bilibili.com/38607620](https://space.bilibili.com/38607620)
 - GitHub: [https://github.com/septsea](https://github.com/septsea)
 - Gitee: [https://gitee.com/septsea](https://gitee.com/septsea)
 - AniDB: [https://anidb.net/user/902643](https://anidb.net/user/902643)
+- VNDB: [https://vndb.org/u182843](https://vndb.org/u182843)
 - ~~Chaoli Club: [https://chaoli.club/index.php/member/5729](https://chaoli.club/index.php/member/5729)~~ ~~*(I rarely use it now.)*~~
 
 I use Visual Studio Code (UNREGISTERED).
