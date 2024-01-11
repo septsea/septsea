@@ -1,5 +1,9 @@
 # A git's question-and-answer self-introduction
 
+TODO: I plan to rewrite the introduction. (2024-01-11)
+
+---
+
 ARE YOU READY?
 
 - **What is your name?** *> Septsea.*
@@ -48,7 +52,9 @@ In British English slang, a *git* is a foolish or worthless person. I redefined 
 
 ~~I used to have a Zhihu account.~~
 
-I wrote ~~two~~ three math books, but none of them was not successful at all.
+I wrote ~~two~~ three math books, but none of them was successful at all.
+
+I use the following services actively.
 
 - Bilibili: [https://space.bilibili.com/38607620](https://space.bilibili.com/38607620)
 - GitHub: [https://github.com/septsea](https://github.com/septsea)
